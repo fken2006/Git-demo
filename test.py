@@ -6,3 +6,6 @@ A='test'
 #edited master & DEV
 #create a conflict in master
 #create conflict 2 in master
+#create a conflict in dev
+#lovely boss
+#fix the conflict
