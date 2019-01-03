@@ -3,3 +3,6 @@ A='test'
 #New Branch Dev
 #DEV
 #conflict solved
+#edited master & DEV
+#create a conflict in master
+#create conflict 2 in master
