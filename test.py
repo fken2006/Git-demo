@@ -9,3 +9,5 @@ A='test'
 #create a conflict in dev
 #lovely boss
 #fix the conflict
+#doing something
+#fix the conflict
